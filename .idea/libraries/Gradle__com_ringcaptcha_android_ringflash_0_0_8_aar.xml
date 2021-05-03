@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ringcaptcha.android:ringflash:0.0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a369234d8c5e8c6570e763bb7d56b9b3/jetified-ringflash-0.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a369234d8c5e8c6570e763bb7d56b9b3/jetified-ringflash-0.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a369234d8c5e8c6570e763bb7d56b9b3/jetified-ringflash-0.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a369234d8c5e8c6570e763bb7d56b9b3/jetified-ringflash-0.0.8/jars/libs/volley-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ringcaptcha.android/ringflash/0.0.8/46ac4dacbd7b5b4b750048ea486b1caaba135e2b/ringflash-0.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ringcaptcha.android/ringflash/0.0.8/d590802bf4d60f22aa66a894a3ad2838c065012c/ringflash-0.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

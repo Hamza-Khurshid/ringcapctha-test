@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ringcaptcha.android:ringcaptcha:1.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0bb26e1acfe05d859e2174df1c6160bb/jetified-ringcaptcha-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0bb26e1acfe05d859e2174df1c6160bb/jetified-ringcaptcha-1.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0bb26e1acfe05d859e2174df1c6160bb/jetified-ringcaptcha-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0bb26e1acfe05d859e2174df1c6160bb/jetified-ringcaptcha-1.2.0/jars/libs/libphonenumber-7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ringcaptcha.android/ringcaptcha/1.2.0/649d8fb6f87513c4d3651deed3ddf85b5df3e460/ringcaptcha-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ringcaptcha.android/ringcaptcha/1.2.0/6340187e8a60bd3403b981169e519debb58117b9/ringcaptcha-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
